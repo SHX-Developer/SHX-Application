@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name"> ShaHriX Application </string>
+
+    MAIN MENU
+
+    <string name="menu_description"> Visit Uzbekistan </string>
+    <string name="find_cities_button"> Find Cities </string>
+    <string name="rate_button"> Rate Us </string>
+
+    CITIES
+
+    <string name="tashkent_button"> Tashkent </string>
+    <string name="ferghana_button"> Ferghana </string>
+    <string name="termez_button"> Termez </string>
+
+    TASHKENT
+
+    <string name="tashkent_text"> TASHKENT </string>
+    <string name="tashkent_about_text"> About </string>
+    <string name="tashkent_weather_text"> Weather </string>
+    <string name="tashkent_about_info">
+    Tashkent is the capital and largest city of Uzbekistan. The city has a population of 2.5 million people and is the most populous city in Central Asia.
+    </string>
+    <string name="tashkent_weather_info">
+    Tashkent has a dry continental climate. Summers are hot and dry, with temperatures reaching up to 40C (104F) in July and August.
+    </string>
+    <string name="tashkent_food_1"> PLOW </string>
+    <string name="tashkent_food_2"> NORIN </string>
+    <string name="tashkent_food_3"> MANTI </string>
+    <string name="tashkent_place_1"> MAGIC CITY </string>
+    <string name="tashkent_place_2"> HILTON </string>
+    <string name="tashkent_place_3"> TELETOWER </string>
+    <string name="tashkent_shop_1"> KORZINKA </string>
+    <string name="tashkent_shop_2"> HAVAS </string>
+    <string name="tashkent_shop_3"> MAKRO </string>
+
+    FERGHANA
+
+    <string name="ferghana_text"> FERGHANA </string>
+    <string name="ferghana_about_text"> About </string>
+    <string name="ferghana_weather_text"> Weather </string>
+    <string name="ferghana_about_info">
+    Ferghana is a city in the Ferghana Valley of eastern Uzbekistan. It is the administrative center of the Ferghana Region. The city lies along the Syr Darya river.
+    </string>
+    <string name="ferghana_weather_info">
+    Ferghana has an arid continental climate with hot summers and cold winters. The avarage temperature in summer is between 25-35 C and in winter -7-2 C.
+    </string>
+    <string name="ferghana_food_1"> SAMSA </string>
+    <string name="ferghana_food_2"> BOREK </string>
+    <string name="ferghana_food_3"> CHUCHVARA </string>
+    <string name="ferghana_place_1"> WELCOME </string>
+    <string name="ferghana_place_2"> AL FARGONIY </string>
+    <string name="ferghana_place_3"> SANAT SAROYI </string>
+    <string name="ferghana_shop_1"> ARTEL </string>
+    <string name="ferghana_shop_2"> KHALIFA </string>
+    <string name="ferghana_shop_3"> FABERLIC </string>
+
+
+    TERMEZ
+
+    <string name="termez_text"> TERMEZ </string>
+    <string name="termez_about_text"> About </string>
+    <string name="termez_weather_text"> Weather </string>
+    <string name="termez_about_info">
+    Termez is a city in the south of Uzbekistan, located on the banks of AmuDarya river. It is the capital of Surxondaryo Province and has population of approximately 150.000 people.
+    </string>
+    <string name="termez_weather_info">
+    Termez has a desert climate. Summers are hot and dry, with temperatures reaching up to 40C (104F). Winters are mild and dry, with temperatures rarely dropping below 0C (32F).
+    </string>
+    <string name="termez_food_1"> SHAHLIK </string>
+    <string name="termez_food_2"> ASSORTI </string>
+    <string name="termez_food_3"> SHILPILDOQ </string>
+    <string name="termez_place_1"> STATION </string>
+    <string name="termez_place_2"> MUSEUM </string>
+    <string name="termez_place_3"> SULTON </string>
+    <string name="termez_shop_1"> TEXNOMART </string>
+    <string name="termez_shop_2"> MEDIA PARK </string>
+    <string name="termez_shop_3"> ISHONCH </string>
+
+
+</resources>
